@@ -6,7 +6,6 @@ This repository contains a simple Docker example that demonstrates how to contai
 
 ```
 .
-├── app.py
 └── first-docker-file
     ├── app.py
     └── Dockerfile
